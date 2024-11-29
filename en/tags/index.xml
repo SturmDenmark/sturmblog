@@ -7,6 +7,77 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 29 Nov 2024 05:29:00 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3dprint</title>
+      <link>http://localhost:1313/en/tags/3dprint/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/3dprint/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dragon</title>
+      <link>http://localhost:1313/en/tags/dragon/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/dragon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eletronics</title>
+      <link>http://localhost:1313/en/tags/eletronics/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/eletronics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>General</title>
+      <link>http://localhost:1313/en/tags/general/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/general/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minis</title>
+      <link>http://localhost:1313/en/tags/minis/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/minis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Orcs</title>
+      <link>http://localhost:1313/en/tags/orcs/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/orcs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shame</title>
+      <link>http://localhost:1313/en/tags/shame/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/shame/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sword</title>
+      <link>http://localhost:1313/en/tags/sword/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/sword/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Wall-E</title>
+      <link>http://localhost:1313/en/tags/wall-e/</link>
+      <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/wall-e/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/en/tags/first/</link>
+      <pubDate>Thu, 28 Nov 2024 21:30:50 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/first/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

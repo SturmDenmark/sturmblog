@@ -2,10 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/about-sturmdenmark/</loc>
+    <loc>http://localhost:1313/en/tags/3dprint/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/minis/army-of-orcs/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/minis/blackdragon-on-mausoleum/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/3dprint/blade-of-caex/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/dragon/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/eletronics/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/general/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/minis/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/orcs/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/shame/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/sword/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/2024/wall-of-shame/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/wall-e/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/electronics/wall-e/</loc>
+    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/first/</loc>
+    <lastmod>2024-11-28T21:30:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/blog/2024/first-blog-post/</loc>
+    <lastmod>2024-11-28T21:30:50+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/about-sturmdenmark/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/setup/setup-3dprinting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/setup/setup-computer/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/setup/setup-overview/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/setup/setup-painting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/en/setup/</loc>
   </url>
 </urlset>
