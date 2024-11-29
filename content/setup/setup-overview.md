@@ -1,8 +1,5 @@
 ---
 title: Overview of my setup
-date: 2024-11-29T21:30:50+0100
-draft: false
-featuredImg: ""
 description: Overview of my different setups and tools
 author: SturmDenmark
 ---
