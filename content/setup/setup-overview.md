@@ -5,9 +5,6 @@ draft: false
 featuredImg: ""
 description: Overview of my different setups and tools
 author: SturmDenmark
-scrolltotop: true
-toc: false
-mathjax: false
 ---
 
 These pages describes by current, and most likely evolving setup. Have a look at the once that you find relevant or interesting :smiley:
