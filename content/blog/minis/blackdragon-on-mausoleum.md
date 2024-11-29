@@ -11,6 +11,6 @@ tags:
   - dragon
 author: SturmDenmark
 scrolltotop: true
-toc: true
+toc: false
 mathjax: false
 ---
