@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.sturmdenmark.dk/en/</loc>
+    <lastmod>2024-11-29T21:30:50+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.sturmdenmark.dk/en/setup/</loc>
+    <lastmod>2024-11-29T21:30:50+01:00</lastmod>
+  </url><url>
     <loc>https://blog.sturmdenmark.dk/en/tags/3dprint/</loc>
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
@@ -12,9 +18,6 @@
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.sturmdenmark.dk/en/blog/3dprint/blade-of-caex/</loc>
-    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/</loc>
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.sturmdenmark.dk/en/blog/</loc>
@@ -65,10 +68,6 @@
   </url><url>
     <loc>https://blog.sturmdenmark.dk/en/setup/setup-computer/</loc>
   </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/setup/setup-overview/</loc>
-  </url><url>
     <loc>https://blog.sturmdenmark.dk/en/setup/setup-painting/</loc>
-  </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/setup/</loc>
   </url>
 </urlset>
