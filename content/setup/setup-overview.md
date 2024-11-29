@@ -4,13 +4,13 @@ slug: setup-overview
 date: 2024-11-29T21:30:50+0100
 draft: false
 featuredImg: ""
-description: My first random blabbering on the web
+description: Overview of my various setups for my hobbies
 tags:
   - general
   - setup
 author: SturmDenmark
 scrolltotop: true
-toc: true
+toc: false
 mathjax: false
 ---
 These pages describes by current, and most likely evolving setup. Have a look at the once that you find relevant or interesting :smiley:
