@@ -134,7 +134,7 @@ expiryDate = ["expiryDate"]
 
   [[menu.main]]
     name = "Setup"
-    url = "setup-overview"
+    url = "setup/setup-overview"
     weight = 20
 
   [[menu.main]]
