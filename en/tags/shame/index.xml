@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shame on Blog of SturmDenmark</title>
-    <link>http://blog.sturmdenmark.dk/en/tags/shame/</link>
+    <link>http://localhost:52456/en/tags/shame/</link>
     <description>Recent content in Shame on Blog of SturmDenmark</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 29 Nov 2024 05:29:00 +0100</lastBuildDate>
-    <atom:link href="http://blog.sturmdenmark.dk/en/tags/shame/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52456/en/tags/shame/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Army of Orcs</title>
-      <link>http://blog.sturmdenmark.dk/en/blog/minis/army-of-orcs/</link>
+      <link>http://localhost:52456/en/blog/minis/army-of-orcs/</link>
       <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
-      <guid>http://blog.sturmdenmark.dk/en/blog/minis/army-of-orcs/</guid>
+      <guid>http://localhost:52456/en/blog/minis/army-of-orcs/</guid>
       <description></description>
     </item>
     <item>
       <title>Black Dragon on Mausoleum</title>
-      <link>http://blog.sturmdenmark.dk/en/blog/minis/blackdragon-on-mausoleum/</link>
+      <link>http://localhost:52456/en/blog/minis/blackdragon-on-mausoleum/</link>
       <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
-      <guid>http://blog.sturmdenmark.dk/en/blog/minis/blackdragon-on-mausoleum/</guid>
+      <guid>http://localhost:52456/en/blog/minis/blackdragon-on-mausoleum/</guid>
       <description></description>
     </item>
     <item>
       <title>Blade of Caex</title>
-      <link>http://blog.sturmdenmark.dk/en/blog/3dprint/blade-of-caex/</link>
+      <link>http://localhost:52456/en/blog/3dprint/blade-of-caex/</link>
       <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
-      <guid>http://blog.sturmdenmark.dk/en/blog/3dprint/blade-of-caex/</guid>
+      <guid>http://localhost:52456/en/blog/3dprint/blade-of-caex/</guid>
       <description>&lt;p&gt;My first large scale project.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wall of shame</title>
-      <link>http://blog.sturmdenmark.dk/en/blog/2024/wall-of-shame/</link>
+      <link>http://localhost:52456/en/blog/2024/wall-of-shame/</link>
       <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
-      <guid>http://blog.sturmdenmark.dk/en/blog/2024/wall-of-shame/</guid>
-      <description>&lt;p&gt;So, we all have it, or at least most who are tinkering. Projects that we have started but not quite yet finished.  Projects that we are going to finish &lt;em&gt;some day&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Well these are my confessio&amp;hellip; &lt;em&gt;ehem&lt;/em&gt; projects that I haven&amp;rsquo;t quite finished, or rather I started on but didn&amp;rsquo;t finish:&lt;/p&gt;&#xA;&lt;p&gt;eletronics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://blog.sturmdenmark.dk/en/blog/electronics/wall-e/&#34;&gt;Wall-E2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;minis:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://blog.sturmdenmark.dk/en/blog/minis/blackdragon-on-mausoleum/&#34;&gt;Black Dragon on mausoleum&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://blog.sturmdenmark.dk/en/blog/minis/army-of-orcs/&#34;&gt;Army of Orcs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;3d-Printing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://blog.sturmdenmark.dk/en/blog/3dprint/blade-of-caex/&#34;&gt;Blade of Caex&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:52456/en/blog/2024/wall-of-shame/</guid>
+      <description>&lt;p&gt;So, we all have it, or at least most who are tinkering. Projects that we have started but not quite yet finished.  Projects that we are going to finish &lt;em&gt;some day&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Well these are my confessio&amp;hellip; &lt;em&gt;ehem&lt;/em&gt; projects that I haven&amp;rsquo;t quite finished, or rather I started on but didn&amp;rsquo;t finish:&lt;/p&gt;&#xA;&lt;p&gt;eletronics:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:52456/en/blog/electronics/wall-e/&#34;&gt;Wall-E2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;minis:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:52456/en/blog/minis/blackdragon-on-mausoleum/&#34;&gt;Black Dragon on mausoleum&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:52456/en/blog/minis/army-of-orcs/&#34;&gt;Army of Orcs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;3d-Printing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://localhost:52456/en/blog/3dprint/blade-of-caex/&#34;&gt;Blade of Caex&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Wall-E</title>
-      <link>http://blog.sturmdenmark.dk/en/blog/electronics/wall-e/</link>
+      <link>http://localhost:52456/en/blog/electronics/wall-e/</link>
       <pubDate>Fri, 29 Nov 2024 05:29:00 +0100</pubDate>
-      <guid>http://blog.sturmdenmark.dk/en/blog/electronics/wall-e/</guid>
+      <guid>http://localhost:52456/en/blog/electronics/wall-e/</guid>
       <description></description>
     </item>
   </channel>
