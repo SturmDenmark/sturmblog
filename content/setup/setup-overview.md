@@ -1,6 +1,10 @@
 ---
 title: Overview of my setup
-description: Overview of my different setups and tools
+slug: setup-overview
+date: 2024-11-29T05:29:00+0100
+draft: false
+featuredImg: ""
+description: This is an overview of my different setups and tools
 tags:
   - setup
   - general
