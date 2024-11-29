@@ -19,4 +19,4 @@ For my 3d printing adventure have a look [here](/setup/setup-3dprinting)
 
 For my painting and miniature model setup have a look [here](/setup/setup-painting)
 
-For everything related to gaming and electronics have a look [here](/setup/setup-computer)
+For everything related to gaming and electronics have a look [here](/setup/setup-computer) 
