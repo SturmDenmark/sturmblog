@@ -118,10 +118,6 @@ expiryDate = ["expiryDate"]
   # usesAnimation = true
 
   [[params.socialLinks]]
-    name = "mastodon"
-    url = "https://joinmastodon.org/"
-
-  [[params.socialLinks]]
     name = "x"
     url = "https://x.com/sturmdenmark"
 
