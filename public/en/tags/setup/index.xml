@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Setup on Blog of SturmDenmark</title>
+    <link>https://blog.sturmdenmark.dk/en/tags/setup/</link>
+    <description>Recent content in Setup on Blog of SturmDenmark</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <atom:link href="https://blog.sturmdenmark.dk/en/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overview of my setup</title>
+      <link>https://blog.sturmdenmark.dk/en/setup/setup-overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://blog.sturmdenmark.dk/en/setup/setup-overview/</guid>
+      <description>&lt;p&gt;These pages describes by current, and most likely evolving setup. Have a look at the once that you find relevant or interesting &amp;#x1f603;&lt;/p&gt;&#xA;&lt;p&gt;For my 3d printing adventure have a look &lt;a href=&#34;https://blog.sturmdenmark.dk/en/setup/setup-3dprinting/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For my painting and miniature model setup have a look &lt;a href=&#34;https://blog.sturmdenmark.dk/en/setup/setup-painting/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;For everything related to gaming and electronics have a look &lt;a href=&#34;https://blog.sturmdenmark.dk/en/setup/setup-computer/&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

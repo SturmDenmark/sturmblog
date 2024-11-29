@@ -1,7 +1,13 @@
 ---
 title: Overview of my setup
 description: Overview of my different setups and tools
+tags:
+  - setup
+  - general
 author: SturmDenmark
+scrolltotop: true
+toc: true
+mathjax: false
 ---
 
 These pages describes by current, and most likely evolving setup. Have a look at the once that you find relevant or interesting :smiley:
