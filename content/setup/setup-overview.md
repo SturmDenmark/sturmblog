@@ -13,6 +13,7 @@ scrolltotop: true
 toc: false
 mathjax: false
 ---
+
 These pages describes by current, and most likely evolving setup. Have a look at the once that you find relevant or interesting :smiley:
 
 For my 3d printing adventure have a look [here](/setup/setup-3dprinting)
