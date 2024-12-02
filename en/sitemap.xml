@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blog.sturmdenmark.dk/en/</loc>
+    <lastmod>2024-12-02T07:38:24+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.sturmdenmark.dk/en/blog/</loc>
+    <lastmod>2024-12-02T07:38:24+01:00</lastmod>
+  </url><url>
     <loc>https://blog.sturmdenmark.dk/en/tags/3dprint/</loc>
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
@@ -14,16 +20,7 @@
     <loc>https://blog.sturmdenmark.dk/en/blog/3dprint/blade-of-caex/</loc>
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/</loc>
-    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/blog/</loc>
-    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
-  </url><url>
     <loc>https://blog.sturmdenmark.dk/en/tags/dragon/</loc>
-    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/tags/eletronics/</loc>
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.sturmdenmark.dk/en/tags/general/</loc>
@@ -54,12 +51,6 @@
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.sturmdenmark.dk/en/blog/2024/wall-of-shame/</loc>
-    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/tags/wall-e/</loc>
-    <lastmod>2024-11-29T05:29:00+01:00</lastmod>
-  </url><url>
-    <loc>https://blog.sturmdenmark.dk/en/blog/electronics/wall-e/</loc>
     <lastmod>2024-11-29T05:29:00+01:00</lastmod>
   </url><url>
     <loc>https://blog.sturmdenmark.dk/en/tags/first/</loc>
