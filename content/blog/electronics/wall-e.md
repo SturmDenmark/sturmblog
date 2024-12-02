@@ -12,5 +12,6 @@ tags:
 author: SturmDenmark
 scrolltotop: true
 toc: true
+headless: true
 mathjax: false
 ---
